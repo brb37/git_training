@@ -4,8 +4,9 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 ### Trainers
 Ash.    
 Mark.   
-Julie, 
-Stan.  
+Julie.   
+Stan. 
+
 
 ## Topics
 Headings   
